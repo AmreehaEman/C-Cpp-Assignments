@@ -1,28 +1,42 @@
-# C-Cpp-Assignments
-The practice codes in C++ language.
-C++ Programming Fundamentals (BSCS Practice)
-This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++.
+# C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)
 
-These exercises demonstrate proficiency in:
+This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++. All exercises demonstrate proficiency in fundamental programming concepts, data structures, and logic.
 
-# Basic Input/Output (cout and cin)
-Fundamental Arithmetic Operations
-Data Type Handling (int, float, long long)
-Projects Included:
-Topic:
-Unit Converters:	hours-to-seconds-calc.cpp, pounds-to-kilograms.cpp, etc.
-Physics/Math Calculators:	charge-time-current-calc.cpp, rectangle-area-calc.cpp
-Practical Formulas:	admission-aggregate-score.cpp, tournament-points-calc.cpp
+***
 
+## 🌟 Featured Project: Cyclic Summation Comparison
 
-# This repository contains a collection of simple C++ programs designed to perform basic calculations, check conditions, and demonstrate fundamental programming concepts like functions, loops, and user input validation. These are  starting points for learning C++ programming.
-Files are:
-calculator.cpp : Performs addition, subtraction, multiplication, and division with input validation for numbers and division-by-zero checking.
-discount_clac.cpp : Calculates the payable amount after applying a 10% discount on Sunday and a 5% discount on other days.
-inchesToFeet_calc.cpp  : Converts a measurement from inches to feet.
-requiredFuel_calc.cpp  : Calculates the fuel needed based on a given distance (assuming 10 units of fuel per unit of distance).
-Is_Even_Or_Odd_calc.cpp :  Determines if an integer is even or odd.
-pass_fail_checker.cpp  :  Checks if a student is Pass or Fail based on a threshold (score > 50 is Pass).
-voting_eligibility.cpp  : Determines if a person is eligible to vote (age >= 18).
-stickers_calc.cpp  : Calculates the number of stickers required to cover a cube's surface area, assuming a sticker covers a unit area (Formula: 6*lenght^2).
-unterminated_string.cpp  : This file demonstrates an infinite loop to repeatedly print a user's name.Prints the user's input indefinitely using a while(true) loop.
+This section details a dedicated project comparing two methods for solving a complex logic problem, demonstrating high-level logical thinking and code design.
+
+### 🚀 Project Overview
+This project contains two C++ implementations designed to solve a cyclical data grouping problem: sorting user-inputted digits into three separate sums (Sum 1, Sum 2, and Sum 3) based on their input order. This comparison was created to evaluate the trade-offs between two methods for achieving scalable cyclical logic.
+
+### 🧐 Comparison Files
+
+| File Name | Approach | Description & Trade-Off |
+| **mode_cycle.cpp** | **The Modulus Method** | Uses the remainder of the loop index (`counter % 3`) to assign the digit. **Pro:** Highly concise and scalable. |
+| **newAttempt.cpp** | **The Counter Method** | Uses three independent counter variables to track positions. **Pro:** Highly explicit and easy to trace. |
+
+***
+
+## 📚 Foundational Practice & Assignments
+
+This repository contains a collection of simple C++ programs designed to perform basic calculations, check conditions, and demonstrate fundamental programming concepts like functions, loops, and user input validation. These are starting points for learning C++ programming.
+
+### Core Concepts Demonstrated:
+* **Basic Input/Output** (`cout` and `cin`)
+* Fundamental Arithmetic Operations
+* Data Type Handling (`int`, `float`, `long long`)
+* Functions, Loops, and User Input Validation
+
+### Files Included:
+
+| Topic | File Name(s) | Description |
+| **Game Logic** | **rockPaperSissors.cpp** | A two-player game implementing conditional logic to determine the winner based on choices. |
+| **Calculators** | "calculator.cpp" | Performs addition, subtraction, multiplication, and division with input validation for numbers and division-by-zero checking. |
+| **Conditional Logic** | "discount_clac.cpp", "Is_Even_Or_Odd_calc.cpp", "pass_fail_checker.cpp", "voting_eligibility.cpp" | Checks various conditions (discounts, parity, passing scores, age limits). |
+| **Unit/Area** | "inchesToFeet_calc.cpp", "stickers_calc.cpp" | Converts measurements or calculates surface area ("6*lenght^2"). |
+| **Utility/Formulas** | "requiredFuel_calc.cpp", "admission-aggregate-score.cpp", "tournament-points-calc.cpp" | Calculates fuel, scores, and other practical formulas. |
+| **Looping Example** | "unterminated_string.cpp" | Demonstrates an infinite loop to repeatedly print a user's name. |
+
+***
