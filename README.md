@@ -1,26 +1,26 @@
-#📚 Additional Practice Programs
-
-This section contains four small C++ programs demonstrating number algorithms, type-based calculations, prime number counting, and binary number analysis. These exercises help strengthen fundamental programming concepts like loops, conditionals, functions, and arithmetic operations.
-
-##CubePileHeight.cpp
-
-Checks if a number can be expressed as the sum of consecutive cubes and returns the height of the cube pile. Demonstrates iterative accumulation and basic arithmetic operations.
-
-##ElementalDamageCalc.cpp
-
-Calculates attack damage based on type, opponent type, power, and defense. Demonstrates conditional logic and arithmetic operations in C++.
-
-##CountPrimesInRange.cpp
-
-Counts all prime numbers from 1 up to a given number. Demonstrates nested loops, conditional statements, and basic number theory logic.
-
-##NumberClassification.cpp
-
-Determines whether a number is Evil, Odious, or Pernicious based on its binary representation and the sum of 1s. Demonstrates loops, modulo operations, and simple prime checking.
-
 # C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)
 
 This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++. All exercises demonstrate proficiency in fundamental programming concepts, data structures, and logic.
+
+📚** Additional Practice Programs
+
+This section contains four small C++ programs demonstrating number algorithms, type-based calculations, prime number counting, and binary number analysis. These exercises help strengthen fundamental programming concepts like loops, conditionals, functions, and arithmetic operations.
+
+**CubePileHeight.cpp**
+
+Checks if a number can be expressed as the sum of consecutive cubes and returns the height of the cube pile. Demonstrates iterative accumulation and basic arithmetic operations.
+
+**ElementalDamageCalc.cpp**
+
+Calculates attack damage based on type, opponent type, power, and defense. Demonstrates conditional logic and arithmetic operations in C++.
+
+**CountPrimesInRange.cpp**
+
+Counts all prime numbers from 1 up to a given number. Demonstrates nested loops, conditional statements, and basic number theory logic.
+
+**NumberClassification.cpp**
+
+Determines whether a number is Evil, Odious, or Pernicious based on its binary representation and the sum of 1s. Demonstrates loops, modulo operations, and simple prime checking.
 
 ***
 
