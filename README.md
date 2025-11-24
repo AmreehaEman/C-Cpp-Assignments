@@ -2,7 +2,7 @@
 
 This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++. All exercises demonstrate proficiency in fundamental programming concepts, data structures, and logic.
 
-📚** Additional Practice Programs
+📚** Additional Practice Programs **
 
 This section contains four small C++ programs demonstrating number algorithms, type-based calculations, prime number counting, and binary number analysis. These exercises help strengthen fundamental programming concepts like loops, conditionals, functions, and arithmetic operations.
 
