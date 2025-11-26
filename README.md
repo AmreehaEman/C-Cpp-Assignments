@@ -1,4 +1,4 @@
-#C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)
+***C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)***
 
 This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++. All exercises demonstrate proficiency in fundamental programming concepts, data structures, and logic.
 
