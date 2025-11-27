@@ -54,7 +54,7 @@ This table details the complete collection of C++ assignments and practice progr
 | **Utility/Formulas** | `requiredFuel_calc.cpp`, `admission-aggregate-score.cpp`, `tournament-points-calc.cpp` | Calculates fuel requirements, admission aggregate scores, and tournament points using specific formulas. |
 | **Looping Example** | `unterminated_string.cpp` | Demonstrates an infinite loop structure to repeatedly print a user's name. |
 | **String Search** | `letter_search.cpp` | Demonstrates basic string iteration and character search (`isFind` function) in C++. |
-| **Array & Data Structure Fundamentals** | `task4(12).cpp`, `task5(13).cpp`, `task6(14).cpp`, `task7(15).cpp`, `task8(16).cpp`, `task9(17).cpp` | **Core assignments demonstrating proficiency in fundamental array manipulation and logic:** Reversing and printing arrays, finding unique elements (using flags and break), locating the maximum value, inserting one array into another, calculating total series resistance, and accurate monetary validation (change calculation). |
+| **Array & Data Structure Fundamentals** | `Array_InputReversePrint.cpp`, `Array_FindUniqueElements.cpp`, `Array_FindMaximum.cpp`, `Circuit_SeriesResistance.cpp`, `Array_MergeAndPrint.cpp`, `Monetary_ChangeValidator.cpp` | **Core assignments demonstrating proficiency in fundamental array manipulation and logic:** Reversing and printing arrays, finding unique elements (using flags and break), locating the maximum value, inserting one array into another, calculating total series resistance, and accurate monetary validation (change calculation). |
 ---
 <br>
 **Key Concepts Covered in string search**:
