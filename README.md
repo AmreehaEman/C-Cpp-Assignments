@@ -1,4 +1,4 @@
-#C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)
+# C-Cpp-Assignments: C++ Programming Fundamentals (BSCS Practice)
 
 **This repository contains my practice codes and assignments from my first-semester BSCS coursework in C++. All exercises demonstrate proficiency in fundamental programming concepts, data structures, and logic**.
 
@@ -54,19 +54,16 @@ This table details the complete collection of C++ assignments and practice progr
 | **Utility/Formulas** | `requiredFuel_calc.cpp`, `admission-aggregate-score.cpp`, `tournament-points-calc.cpp` | Calculates fuel requirements, admission aggregate scores, and tournament points using specific formulas. |
 | **Looping Example** | `unterminated_string.cpp` | Demonstrates an infinite loop structure to repeatedly print a user's name. |
 | **String Search** | `letter_search.cpp` | Demonstrates basic string iteration and character search (`isFind` function) in C++. |
+| **Array & Data Structure Fundamentals** | `task4(12).cpp`, `task5(13).cpp`, `task6(14).cpp`, `task7(15).cpp`, `task8(16).cpp`, `task9(17).cpp` | **Core assignments demonstrating proficiency in fundamental array manipulation and logic:** Reversing and printing arrays, finding unique elements (using flags and break), locating the maximum value, inserting one array into another, calculating total series resistance, and accurate monetary validation (change calculation). |
+---
 <br>
-**Key Concepts Covered**:
+**Key Concepts Covered in string search**:
 String Manipulation: Iterating through a string using the length() function and indexing.
 Boolean Functions: Returning a boolean result (1 or 0) based on the search result.
 Control Structures: Using a for loop to iterate over a string. |
-<br>
-| **Array & Data Structure Fundamentals** | `task4(12).cpp`, `task5(13).cpp`, `task6(14).cpp`, `task7(15).cpp`, `task8(16).cpp`, `task9(17).cpp` | **Core assignments demonstrating proficiency in fundamental array manipulation and logic:** Reversing and printing arrays, finding unique elements (using flags and break), locating the maximum value, inserting one array into another, calculating total series resistance, and accurate monetary validation (change calculation). |
----
 
 ### Key Concepts Covered in Array Section
-
 This group of files demonstrates specific mastery in the following areas:
-
 * **Iteration & Control:** Effective use of nested loops, boolean flags (`temp`), and the `break` statement for efficient data checking.
 * **Functions:** Correctly passing arrays and size as arguments to custom functions (e.g., `findLargestNumber`, `calculateTotalResistance`).
 * **Array Manipulation:** Algorithms for reversing array order and logically inserting array data during print output.
