@@ -104,6 +104,31 @@ This part reflects strong understanding of:
 - Merging arrays in logical order  
 - Handling floats for monetary calculations  
 
+## 🎮 N x N Tic-Tac-Toe Game (C++)
+
+This is a classic Tic-Tac-Toe game implemented in C++. It allows players to define the size of the grid (N x N), making it a generalized version of the standard 3x3 game.
+
+### ✨ Features
+
+* **Customizable Grid Size:** Supports N x N grid sizes, up to 30x30.
+* **Two Players:** Uses 'X' for Player 1 and 'O' for Player 2.
+* **Input Validation:** Ensures the user enters valid, un-taken cell numbers within the specified board range.
+* **Win Conditions:** Checks for wins across rows, columns, and both diagonals.
+---
+### ⚙️ How to Run Locally
+
+To compile and run this program, you will need a C++ compiler (like g++ or MinGW).
+
+1.  **Compile the file:**
+    ```bash
+    g++ tictactoe.cpp -o tictactoe
+    ```
+2.  **Run the game:**
+    ```bash
+    ./tictactoe
+    ```
+3.  **Follow Prompts:** Enter the desired grid size (e.g., 5) and then enter the cell number for each turn.
+
 ---
 
 ## 📝 **About**
